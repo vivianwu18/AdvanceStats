@@ -2,4 +2,8 @@
 
 ## Data Exploration
 
-## Simple Linear Regression
+## Data Preprocessing
+### Data Transformation
+
+## Model Building
+### Simple Linear Regression
