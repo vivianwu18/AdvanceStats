@@ -2,4 +2,9 @@
 
 ## Data Exploration
 
-## Simple Linear Regression
+## Data Preprocessing
+### - Data Transformation
+### - Feature Selection
+
+## Model Building
+### Simple Linear Regression
