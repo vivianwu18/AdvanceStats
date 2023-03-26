@@ -5,7 +5,10 @@ Data exploration is the process of examining and analyzing data to discover patt
 
 ## Data Preprocessing
 ### - Data Transformation
+Data transformation refers to the process of converting raw data from one format, structure, or representation to another format that is more suitable for analysis or processing. The transformation process can involve a wide range of techniques, including data cleaning, data normalization, data aggregation, and feature engineering.
+
 ### - Feature Selection
+Feature selection is the process of selecting a subset of relevant features (or variables) from a larger set of features in a dataset. The objective of feature selection is to reduce the dimensionality of the data and improve the accuracy and efficiency of machine learning models by eliminating irrelevant or redundant features that do not contribute much to the performance of the model.
 
 ## Model Building
 ### Simple Linear Regression
