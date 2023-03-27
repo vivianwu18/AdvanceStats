@@ -10,5 +10,8 @@ Data transformation refers to the process of converting raw data from one format
 ### - Feature Selection
 Feature selection is the process of selecting a subset of relevant features (or variables) from a larger set of features in a dataset. The objective of feature selection is to reduce the dimensionality of the data and improve the accuracy and efficiency of machine learning models by eliminating irrelevant or redundant features that do not contribute much to the performance of the model.
 
+### - Cross Validation
+Cross-validation is a statistical method used to evaluate the performance of a machine learning model by dividing the available dataset into multiple subsets, or "folds." The model is trained on a subset of the data and tested on the remaining subset. This process is repeated multiple times with different subsets of the data, and the performance of the model is averaged over all the runs.
+
 ## Model Building
 ### Simple Linear Regression
