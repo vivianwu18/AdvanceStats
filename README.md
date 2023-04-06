@@ -13,5 +13,7 @@ Feature selection is the process of selecting a subset of relevant features (or 
 ### - Cross Validation
 Cross-validation is a statistical method used to evaluate the performance of a machine learning model by dividing the available dataset into multiple subsets, or "folds." The model is trained on a subset of the data and tested on the remaining subset. This process is repeated multiple times with different subsets of the data, and the performance of the model is averaged over all the runs.
 
+### - Principal Component Analysis
+
 ## Model Building
 ### Simple Linear Regression
