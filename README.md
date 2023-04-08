@@ -17,3 +17,13 @@ Cross-validation is a statistical method used to evaluate the performance of a m
 
 ## Model Building
 ### Simple Linear Regression
+
+### Weighted Linear Regression
+
+### Partial Least Squares Regression
+
+### Pricipal Component Regression
+
+### Ridge Regression
+
+### Lasso Regression
