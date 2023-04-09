@@ -14,11 +14,14 @@ Feature selection is the process of selecting a subset of relevant features (or 
 Cross-validation is a statistical method used to evaluate the performance of a machine learning model by dividing the available dataset into multiple subsets, or "folds." The model is trained on a subset of the data and tested on the remaining subset. This process is repeated multiple times with different subsets of the data, and the performance of the model is averaged over all the runs.
 
 ### - Principal Component Analysis
+Principal Component Analysis (PCA) is a statistical technique used to transform a set of variables into a smaller set of linearly uncorrelated variables called principal components. These principal components are ranked in order of the amount of variation they explain in the original dataset, with the first principal component accounting for the most variation, followed by the second principal component, and so on.
 
 ## Model Building
 ### - Simple Linear Regression
+Simple Linear Regression is a statistical method used to model the linear relationship between a dependent variable (Y) and an independent variable (X). The goal of Simple Linear Regression is to find a line of best fit that summarizes the relationship between the two variables.
 
 ### - Weighted Linear Regression
+Weighted Linear Regression is a variant of Simple Linear Regression in which each data point is assigned a weight that reflects the importance or reliability of that point. The weights are used to give more emphasis to some data points and less emphasis to others when estimating the parameters of the regression model.
 
 ### - Partial Least Squares Regression
 
