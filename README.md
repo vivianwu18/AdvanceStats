@@ -24,9 +24,13 @@ Simple Linear Regression is a statistical method used to model the linear relati
 Weighted Linear Regression is a variant of Simple Linear Regression in which each data point is assigned a weight that reflects the importance or reliability of that point. The weights are used to give more emphasis to some data points and less emphasis to others when estimating the parameters of the regression model.
 
 ### - Partial Least Squares Regression
+Partial Least Squares Regression (PLS Regression) is a statistical technique used for modeling the linear relationship between two sets of variables, X (predictors) and Y (response). PLS Regression is a multivariate technique that can handle situations where there are more predictors than observations or when the predictors are highly correlated with each other.
 
 ### - Pricipal Component Regression
+Partial Least Squares Regression (PLS Regression) is a statistical technique used for modeling the linear relationship between two sets of variables, X (predictors) and Y (response). PLS Regression is a multivariate technique that can handle situations where there are more predictors than observations or when the predictors are highly correlated with each other.
 
 ### - Ridge Regression
+Ridge Regression is a variant of linear regression that is used to mitigate the problem of multicollinearity (i.e., high correlation among the predictor variables) in multiple linear regression. In Ridge Regression, a penalty term is added to the least squares objective function to shrink the regression coefficients towards zero, thus reducing their variance.
 
 ### - Lasso Regression
+Lasso Regression, short for Least Absolute Shrinkage and Selection Operator Regression, is a variant of linear regression that is used for variable selection and regularization. Like Ridge Regression, Lasso Regression can be used to mitigate the problem of multicollinearity in multiple linear regression.
