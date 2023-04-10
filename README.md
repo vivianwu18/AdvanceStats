@@ -16,12 +16,16 @@ Cross-validation is a statistical method used to evaluate the performance of a m
 ### - Principal Component Analysis
 Principal Component Analysis (PCA) is a statistical technique used to transform a set of variables into a smaller set of linearly uncorrelated variables called principal components. These principal components are ranked in order of the amount of variation they explain in the original dataset, with the first principal component accounting for the most variation, followed by the second principal component, and so on.
 
+### - Bootstrapping
+
 ## Model Building
 ### - Simple Linear Regression
 Simple Linear Regression is a statistical method used to model the linear relationship between a dependent variable (Y) and an independent variable (X). The goal of Simple Linear Regression is to find a line of best fit that summarizes the relationship between the two variables.
 
 ### - Weighted Linear Regression
 Weighted Linear Regression is a variant of Simple Linear Regression in which each data point is assigned a weight that reflects the importance or reliability of that point. The weights are used to give more emphasis to some data points and less emphasis to others when estimating the parameters of the regression model.
+
+### - Robust Linear Regression
 
 ### - Partial Least Squares Regression
 Partial Least Squares Regression (PLS Regression) is a statistical technique used for modeling the linear relationship between two sets of variables, X (predictors) and Y (response). PLS Regression is a multivariate technique that can handle situations where there are more predictors than observations or when the predictors are highly correlated with each other.
