@@ -17,6 +17,7 @@ Cross-validation is a statistical method used to evaluate the performance of a m
 Principal Component Analysis (PCA) is a statistical technique used to transform a set of variables into a smaller set of linearly uncorrelated variables called principal components. These principal components are ranked in order of the amount of variation they explain in the original dataset, with the first principal component accounting for the most variation, followed by the second principal component, and so on.
 
 ### - Bootstrapping
+The basic idea of bootstrapping is to create multiple resamples of the original data set by sampling with replacement, so that each resample is the same size as the original sample. Then, statistical estimates, such as the mean or standard deviation, are calculated from each resample. These estimates can be used to approximate the statistical properties of the population, such as the population mean or standard deviation.
 
 ## Model Building
 ### - Simple Linear Regression
@@ -26,6 +27,7 @@ Simple Linear Regression is a statistical method used to model the linear relati
 Weighted Linear Regression is a variant of Simple Linear Regression in which each data point is assigned a weight that reflects the importance or reliability of that point. The weights are used to give more emphasis to some data points and less emphasis to others when estimating the parameters of the regression model.
 
 ### - Robust Linear Regression
+Robust linear regression is a statistical technique used to estimate the parameters of a linear regression model that is less sensitive to outliers or data points that do not conform to the overall pattern of the data.
 
 ### - Partial Least Squares Regression
 Partial Least Squares Regression (PLS Regression) is a statistical technique used for modeling the linear relationship between two sets of variables, X (predictors) and Y (response). PLS Regression is a multivariate technique that can handle situations where there are more predictors than observations or when the predictors are highly correlated with each other.
